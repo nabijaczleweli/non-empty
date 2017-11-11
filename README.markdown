@@ -6,4 +6,4 @@ Non-empty list data structure for Rust.
 non-empty = "0.1.0"
 ```
 
-## [Docs](docs.rs/non-empty)
+## [Docs](https://docs.rs/non-empty)
